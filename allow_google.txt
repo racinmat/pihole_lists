@@ -1,5 +1,1 @@
 www.googleadservices.com
-dartsearch.net
-ad.doubleclick.net
-clickserve.dartsearch.net
-t.myvisualiq.net
